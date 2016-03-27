@@ -1,5 +1,5 @@
 {
-    "name": "nterms/laravel-list",
+    "name": "nterms/laravel-listview",
     "description": "List view blade template extension for laravel 5.x",
     "keywords": [
         "list",
