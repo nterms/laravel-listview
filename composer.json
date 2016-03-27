@@ -1,0 +1,31 @@
+{
+    "name": "nterms/laravel-list",
+    "description": "List view blade template extension for laravel 5.x",
+    "keywords": [
+        "list",
+        "list-view",
+        "blade",
+        "template",
+        "extension",
+        "laravel",
+        "laravel5"
+    ],
+    "type": "library",
+    "require": {
+        "laravel/laravel": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saranga Abeykoon",
+            "email": "amisaranga@gmail.com",
+            "homepage": "http://nterms.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Nterms\\ListView\\": "src/"
+        }
+    }
+}
