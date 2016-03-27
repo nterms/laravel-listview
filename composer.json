@@ -12,7 +12,7 @@
     ],
     "type": "library",
     "require": {
-        "laravel/laravel": "^5.2"
+        "laravel/laravel": "@dev"
     },
     "license": "MIT",
     "authors": [
